@@ -8,7 +8,7 @@ I build end-to-end applications and AI-powered systems, from backend services an
 I focus on designing scalable backend systems, building responsive frontends, and developing AI agents and pipelines that solve real business problems, from clinical AI platforms to automated tooling and multi-agent workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhavitatkare/)
-[![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevJanv?tab=repositories)
+[![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janvdev?tab=repositories)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janvtatkare&color=238636&style=for-the-badge&label=Profile+Views&base=1000&labelColor=238636)
 
